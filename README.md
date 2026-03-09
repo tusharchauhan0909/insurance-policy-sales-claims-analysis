@@ -38,7 +38,6 @@ Power BI
 
 - Python notebook for data simulation and validation
 - SQL file containing analytical queries
-- Raw datasets
 - Power BI dashboard
 - Approach & assumptions document
 - Key insights document
